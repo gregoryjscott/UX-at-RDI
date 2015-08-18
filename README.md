@@ -6,7 +6,7 @@ Initial creation of the UX repository resulted from the UX Tech Lead Initiative.
 
 * [x] **Establish GitHub Repo:** Collaboration tool for UX at RDI
 * [x] **Starter Guide:** Document defining UX and what it means to RDI
-* [ ] **UX Checklist for RDI Projects:** Document highlighting conciserations that should be made for RDI projects
+* [ ] **UX Checklist for RDI Projects:** Document highlighting considerations that should be made for RDI projects
 * [ ] **UX Cheat Sheets (e.g., Microsoft, Android, Apple, etc.):** Cheat sheets that highlight design guidelines specific to a given platform.
 * [ ] **UX Tools and Software:** Outline of existing tools / licenses available for design and prototyping
 * [x] **Establish Slack Channel:** https://resdat.slack.com/messages/ux-at-rdi/files/F07QVAZ0D/
